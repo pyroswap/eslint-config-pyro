@@ -1,8 +1,8 @@
-# eslint-config-pancake
+# eslint-config-pyro
 
-**This repository is not used anymore. See the [Pancake toolkit](https://github.com/pancakeswap/pancake-toolkit) instead**
+**This repository is not used anymore. See the [Pyro toolkit](https://github.com/pyroswap/pyro-toolkit) instead**
 
-Pancake Eslint config with:
+Pyro Eslint config with:
 
 - Airbnb config
 - Typescript
@@ -11,7 +11,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap-libs/eslint-config-pancake
+npx install-peerdeps --dev @pyroswap/eslint-config-pyro
 ```
 
-Add `"extends": "@pancakeswap-libs/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@pyroswap-libs/eslint-config-pyro"` to your eslint config file.
