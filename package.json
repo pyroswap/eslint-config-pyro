@@ -1,5 +1,5 @@
 {
-  "name": "@pyroswap-libs/eslint-config-pyro",
+  "name": "@pyroswap/eslint-config-pyro",
   "version": "1.0.0",
   "description": "Eslint config for PyroSwap",
   "main": "lib/index.js",
